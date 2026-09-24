@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi SAMUEL NWOKOLO
+I'm a Veterinary Medicine graduate from the University of Nigeria, Nsukka (UNN) with a growing interest in Data Analytics and its application to business and healthcare.
 
-<!--
-**datawithsam15/datawithsam15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools i work with
+-📊 Microsoft Excel
+-🗄️ SQL
+-📈 Power BI
 
-Here are some ideas to get you started:
+## my project
+-[SALES ANALYTICS AND BUSINESS PERFORMANCE DATASET] (-----)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+Advance SQL
+
+## Lets Connect
+Linkedin
+
+
+
+
