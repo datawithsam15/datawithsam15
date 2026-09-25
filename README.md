@@ -1,4 +1,4 @@
-# Hi SAMUEL NWOKOLO
+# Hi I'M SAMUEL NWOKOLO
 I'm a Veterinary Medicine graduate from the University of Nigeria, Nsukka (UNN) with a growing interest in Data Analytics and its application to business and healthcare.
 
 ## Tools i work with
@@ -13,7 +13,7 @@ I'm a Veterinary Medicine graduate from the University of Nigeria, Nsukka (UNN) 
 Advance SQL
 
 ## Lets Connect
-Linkedin
+Linkedin   
 
 
 
