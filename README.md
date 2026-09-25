@@ -6,8 +6,8 @@ I'm a Veterinary Medicine graduate from the University of Nigeria, Nsukka (UNN) 
 -🗄️ SQL
 -📈 Power BI
 
-## my project
--[SALES ANALYTICS AND BUSINESS PERFORMANCE DATASET] (-----)
+## my projectS
+(https://github.com/datawithsam15/SALES-ANALYTICS-AND-BUSINESS-PERFORMANCE-DATASET)
 
 ## Currently Learning
 Advance SQL
