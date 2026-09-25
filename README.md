@@ -13,7 +13,7 @@ I'm a Veterinary Medicine graduate from the University of Nigeria, Nsukka (UNN) 
 Advance SQL
 
 ## Lets Connect
-Linkedin  
+Linkedin  (https://www.linkedin.com/in/nwokolo-samuel-c-477870372)
 
 
 
