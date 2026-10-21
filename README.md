@@ -9,6 +9,8 @@ I'm a Veterinary Medicine graduate from the University of Nigeria, Nsukka (UNN) 
 ## My projects
 (https://github.com/datawithsam15/SALES-ANALYTICS-AND-BUSINESS-PERFORMANCE-DATASET)
 
+(https://github.com/datawithsam15/ADDIDAS-SALES-ANALYSIS)
+
 ## Currently Learning
 Advance SQL
 
