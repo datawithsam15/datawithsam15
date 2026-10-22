@@ -15,6 +15,8 @@ I'm a Veterinary Medicine graduate from the University of Nigeria, Nsukka (UNN) 
 
 (https://github.com/datawithsam15/HOSPITAL-EMERGENCY-ROOM-DASHBOARD/blob/main/README.md)
 
+(https://github.com/datawithsam15/HR-ANALYTIC-DASHBOARD-EXCEL-/blob/main/HR_Data_Excel%20by%20Sam.xlsx)
+
 ## Currently Learning
 Advance SQL
 
