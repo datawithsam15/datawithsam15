@@ -13,6 +13,8 @@ I'm a Veterinary Medicine graduate from the University of Nigeria, Nsukka (UNN) 
 
 (https://github.com/datawithsam15/FINANACE-ANALYSIS-PROJECT)
 
+(https://github.com/datawithsam15/HOSPITAL-EMERGENCY-ROOM-DASHBOARD/blob/main/README.md)
+
 ## Currently Learning
 Advance SQL
 
